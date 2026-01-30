@@ -1,0 +1,339 @@
+Product_ID,Category,Sub_Category,Product_Name,Brand,Country_of_Origin
+P0001,Electronics,Laptops,Apple Laptops 859,Apple,Germany
+P0002,Electronics,Laptops,Samsung Laptops 328,Samsung,India
+P0003,Electronics,Laptops,Lenovo Laptops 204,Lenovo,South Korea
+P0004,Electronics,Laptops,Lenovo Laptops 658,Lenovo,USA
+P0005,Electronics,Laptops,Sony Laptops 532,Sony,USA
+P0006,Electronics,Laptops,Apple Laptops 195,Apple,India
+P0007,Electronics,Laptops,Samsung Laptops 617,Samsung,Japan
+P0008,Electronics,Laptops,Apple Laptops 674,Apple,India
+P0009,Electronics,Laptops,Lenovo Laptops 765,Lenovo,South Korea
+P0010,Electronics,Smartphones,Samsung Smartphones 559,Samsung,Japan
+P0011,Electronics,Smartphones,HP Smartphones 928,HP,France
+P0012,Electronics,Smartphones,Apple Smartphones 877,Apple,France
+P0013,Electronics,Smartphones,Samsung Smartphones 814,Samsung,China
+P0014,Electronics,Smartphones,HP Smartphones 384,HP,India
+P0015,Electronics,Smartphones,Samsung Smartphones 881,Samsung,Germany
+P0016,Electronics,Smartphones,Apple Smartphones 194,Apple,China
+P0017,Electronics,Smartphones,Apple Smartphones 467,Apple,France
+P0018,Electronics,Smartphones,HP Smartphones 718,HP,Germany
+P0019,Electronics,Smartphones,Apple Smartphones 847,Apple,China
+P0020,Electronics,Smartphones,Sony Smartphones 227,Sony,China
+P0021,Electronics,Smartphones,Apple Smartphones 665,Apple,Germany
+P0022,Electronics,Smartphones,Lenovo Smartphones 733,Lenovo,France
+P0023,Electronics,Smartphones,HP Smartphones 691,HP,India
+P0024,Electronics,Tablets,Apple Tablets 777,Apple,India
+P0025,Electronics,Tablets,HP Tablets 181,HP,France
+P0026,Electronics,Tablets,Samsung Tablets 987,Samsung,USA
+P0027,Electronics,Tablets,Dell Tablets 384,Dell,China
+P0028,Electronics,Tablets,Lenovo Tablets 954,Lenovo,Germany
+P0029,Electronics,Tablets,Samsung Tablets 479,Samsung,Germany
+P0030,Electronics,Tablets,Samsung Tablets 786,Samsung,Germany
+P0031,Electronics,Tablets,Lenovo Tablets 799,Lenovo,South Korea
+P0032,Electronics,Tablets,Apple Tablets 723,Apple,South Korea
+P0033,Electronics,Headphones,Sony Headphones 846,Sony,India
+P0034,Electronics,Headphones,Samsung Headphones 573,Samsung,China
+P0035,Electronics,Headphones,HP Headphones 755,HP,South Korea
+P0036,Electronics,Headphones,Sony Headphones 324,Sony,South Korea
+P0037,Electronics,Headphones,HP Headphones 963,HP,France
+P0038,Electronics,Headphones,Apple Headphones 334,Apple,France
+P0039,Electronics,Headphones,Apple Headphones 924,Apple,Germany
+P0040,Electronics,Headphones,Dell Headphones 374,Dell,USA
+P0041,Electronics,Headphones,Samsung Headphones 680,Samsung,South Korea
+P0042,Electronics,Headphones,HP Headphones 317,HP,South Korea
+P0043,Electronics,Accessories,Dell Accessories 758,Dell,China
+P0044,Electronics,Accessories,Samsung Accessories 371,Samsung,India
+P0045,Electronics,Accessories,Samsung Accessories 862,Samsung,Japan
+P0046,Electronics,Accessories,Sony Accessories 369,Sony,South Korea
+P0047,Electronics,Accessories,Sony Accessories 538,Sony,Japan
+P0048,Electronics,Accessories,Dell Accessories 470,Dell,India
+P0049,Electronics,Accessories,Samsung Accessories 621,Samsung,China
+P0050,Electronics,Accessories,Apple Accessories 873,Apple,USA
+P0051,Electronics,Accessories,Apple Accessories 256,Apple,South Korea
+P0052,Electronics,Accessories,Samsung Accessories 911,Samsung,South Korea
+P0053,Electronics,Accessories,Dell Accessories 710,Dell,USA
+P0054,Electronics,Accessories,Dell Accessories 490,Dell,Japan
+P0055,Electronics,Accessories,Dell Accessories 641,Dell,Germany
+P0056,Electronics,Accessories,Sony Accessories 981,Sony,USA
+P0057,Electronics,Accessories,Lenovo Accessories 838,Lenovo,USA
+P0058,Fashion,Men Clothing,Puma Men Clothing 448,Puma,USA
+P0059,Fashion,Men Clothing,Levi's Men Clothing 545,Levi's,India
+P0060,Fashion,Men Clothing,H&M Men Clothing 103,H&M,South Korea
+P0061,Fashion,Men Clothing,Puma Men Clothing 369,Puma,Japan
+P0062,Fashion,Men Clothing,Adidas Men Clothing 619,Adidas,USA
+P0063,Fashion,Men Clothing,Puma Men Clothing 405,Puma,France
+P0064,Fashion,Men Clothing,Puma Men Clothing 619,Puma,Japan
+P0065,Fashion,Men Clothing,Adidas Men Clothing 256,Adidas,Germany
+P0066,Fashion,Men Clothing,Adidas Men Clothing 652,Adidas,France
+P0067,Fashion,Men Clothing,Zara Men Clothing 100,Zara,Japan
+P0068,Fashion,Men Clothing,Levi's Men Clothing 600,Levi's,USA
+P0069,Fashion,Men Clothing,Nike Men Clothing 471,Nike,France
+P0070,Fashion,Women Clothing,Adidas Women Clothing 159,Adidas,India
+P0071,Fashion,Women Clothing,Zara Women Clothing 180,Zara,USA
+P0072,Fashion,Women Clothing,Puma Women Clothing 597,Puma,France
+P0073,Fashion,Women Clothing,Nike Women Clothing 878,Nike,Japan
+P0074,Fashion,Women Clothing,Adidas Women Clothing 231,Adidas,South Korea
+P0075,Fashion,Women Clothing,H&M Women Clothing 662,H&M,India
+P0076,Fashion,Women Clothing,Levi's Women Clothing 640,Levi's,France
+P0077,Fashion,Women Clothing,Zara Women Clothing 533,Zara,India
+P0078,Fashion,Women Clothing,Zara Women Clothing 873,Zara,South Korea
+P0079,Fashion,Women Clothing,Puma Women Clothing 305,Puma,South Korea
+P0080,Fashion,Women Clothing,Levi's Women Clothing 508,Levi's,South Korea
+P0081,Fashion,Women Clothing,Puma Women Clothing 482,Puma,China
+P0082,Fashion,Footwear,Nike Footwear 353,Nike,India
+P0083,Fashion,Footwear,Nike Footwear 446,Nike,USA
+P0084,Fashion,Footwear,Zara Footwear 667,Zara,India
+P0085,Fashion,Footwear,Zara Footwear 325,Zara,USA
+P0086,Fashion,Footwear,Nike Footwear 824,Nike,South Korea
+P0087,Fashion,Footwear,Nike Footwear 334,Nike,USA
+P0088,Fashion,Footwear,Nike Footwear 980,Nike,Germany
+P0089,Fashion,Footwear,Nike Footwear 626,Nike,India
+P0090,Fashion,Footwear,Levi's Footwear 785,Levi's,China
+P0091,Fashion,Footwear,Adidas Footwear 652,Adidas,India
+P0092,Fashion,Footwear,Puma Footwear 684,Puma,Japan
+P0093,Fashion,Footwear,H&M Footwear 348,H&M,France
+P0094,Fashion,Footwear,H&M Footwear 926,H&M,China
+P0095,Fashion,Footwear,Adidas Footwear 196,Adidas,USA
+P0096,Fashion,Footwear,Puma Footwear 541,Puma,Germany
+P0097,Fashion,Watches,H&M Watches 578,H&M,France
+P0098,Fashion,Watches,Puma Watches 155,Puma,South Korea
+P0099,Fashion,Watches,Puma Watches 761,Puma,USA
+P0100,Fashion,Watches,Nike Watches 512,Nike,South Korea
+P0101,Fashion,Watches,Levi's Watches 919,Levi's,France
+P0102,Fashion,Watches,Nike Watches 354,Nike,India
+P0103,Fashion,Watches,Adidas Watches 649,Adidas,China
+P0104,Fashion,Watches,Adidas Watches 532,Adidas,India
+P0105,Fashion,Watches,Levi's Watches 573,Levi's,India
+P0106,Fashion,Watches,Nike Watches 553,Nike,France
+P0107,Fashion,Watches,Zara Watches 200,Zara,USA
+P0108,Fashion,Watches,Puma Watches 653,Puma,France
+P0109,Fashion,Watches,Nike Watches 195,Nike,France
+P0110,Fashion,Watches,Adidas Watches 270,Adidas,China
+P0111,Home & Kitchen,Appliances,Prestige Appliances 318,Prestige,France
+P0112,Home & Kitchen,Appliances,Prestige Appliances 160,Prestige,India
+P0113,Home & Kitchen,Appliances,Prestige Appliances 102,Prestige,China
+P0114,Home & Kitchen,Appliances,Whirlpool Appliances 902,Whirlpool,France
+P0115,Home & Kitchen,Appliances,Prestige Appliances 392,Prestige,China
+P0116,Home & Kitchen,Appliances,Bosch Appliances 777,Bosch,South Korea
+P0117,Home & Kitchen,Appliances,Prestige Appliances 258,Prestige,India
+P0118,Home & Kitchen,Appliances,Whirlpool Appliances 322,Whirlpool,USA
+P0119,Home & Kitchen,Appliances,Bosch Appliances 853,Bosch,Japan
+P0120,Home & Kitchen,Appliances,Philips Appliances 865,Philips,Germany
+P0121,Home & Kitchen,Appliances,Philips Appliances 151,Philips,Japan
+P0122,Home & Kitchen,Appliances,Prestige Appliances 614,Prestige,France
+P0123,Home & Kitchen,Appliances,Bosch Appliances 261,Bosch,USA
+P0124,Home & Kitchen,Appliances,Bosch Appliances 182,Bosch,France
+P0125,Home & Kitchen,Appliances,LG Appliances 170,LG,Japan
+P0126,Home & Kitchen,Furniture,LG Furniture 513,LG,USA
+P0127,Home & Kitchen,Furniture,Bosch Furniture 352,Bosch,Japan
+P0128,Home & Kitchen,Furniture,Bosch Furniture 140,Bosch,Japan
+P0129,Home & Kitchen,Furniture,Philips Furniture 529,Philips,South Korea
+P0130,Home & Kitchen,Furniture,Bosch Furniture 678,Bosch,Japan
+P0131,Home & Kitchen,Furniture,Whirlpool Furniture 367,Whirlpool,India
+P0132,Home & Kitchen,Furniture,Whirlpool Furniture 344,Whirlpool,Germany
+P0133,Home & Kitchen,Furniture,Prestige Furniture 234,Prestige,South Korea
+P0134,Home & Kitchen,Furniture,Whirlpool Furniture 568,Whirlpool,Germany
+P0135,Home & Kitchen,Decor,Philips Decor 569,Philips,Japan
+P0136,Home & Kitchen,Decor,Bosch Decor 202,Bosch,USA
+P0137,Home & Kitchen,Decor,Bosch Decor 318,Bosch,Japan
+P0138,Home & Kitchen,Decor,Whirlpool Decor 235,Whirlpool,Germany
+P0139,Home & Kitchen,Decor,Philips Decor 350,Philips,Germany
+P0140,Home & Kitchen,Decor,Whirlpool Decor 261,Whirlpool,China
+P0141,Home & Kitchen,Decor,Bosch Decor 820,Bosch,Germany
+P0142,Home & Kitchen,Decor,Bosch Decor 926,Bosch,South Korea
+P0143,Home & Kitchen,Decor,Bosch Decor 108,Bosch,South Korea
+P0144,Home & Kitchen,Kitchenware,Philips Kitchenware 999,Philips,India
+P0145,Home & Kitchen,Kitchenware,Whirlpool Kitchenware 218,Whirlpool,USA
+P0146,Home & Kitchen,Kitchenware,Bosch Kitchenware 259,Bosch,Germany
+P0147,Home & Kitchen,Kitchenware,Whirlpool Kitchenware 719,Whirlpool,India
+P0148,Home & Kitchen,Kitchenware,Whirlpool Kitchenware 308,Whirlpool,South Korea
+P0149,Home & Kitchen,Kitchenware,Whirlpool Kitchenware 617,Whirlpool,China
+P0150,Home & Kitchen,Kitchenware,Whirlpool Kitchenware 966,Whirlpool,USA
+P0151,Home & Kitchen,Kitchenware,Philips Kitchenware 749,Philips,China
+P0152,Home & Kitchen,Kitchenware,Whirlpool Kitchenware 145,Whirlpool,USA
+P0153,Home & Kitchen,Kitchenware,Whirlpool Kitchenware 889,Whirlpool,India
+P0154,Home & Kitchen,Kitchenware,Whirlpool Kitchenware 265,Whirlpool,South Korea
+P0155,Home & Kitchen,Kitchenware,Prestige Kitchenware 664,Prestige,South Korea
+P0156,Sports,Fitness,Decathlon Fitness 214,Decathlon,USA
+P0157,Sports,Fitness,Puma Fitness 658,Puma,USA
+P0158,Sports,Fitness,Nike Fitness 696,Nike,Japan
+P0159,Sports,Fitness,Puma Fitness 540,Puma,India
+P0160,Sports,Fitness,Decathlon Fitness 415,Decathlon,Germany
+P0161,Sports,Fitness,Decathlon Fitness 466,Decathlon,India
+P0162,Sports,Fitness,Puma Fitness 782,Puma,USA
+P0163,Sports,Fitness,Nike Fitness 898,Nike,Japan
+P0164,Sports,Fitness,Adidas Fitness 735,Adidas,South Korea
+P0165,Sports,Fitness,Puma Fitness 342,Puma,France
+P0166,Sports,Fitness,Puma Fitness 919,Puma,France
+P0167,Sports,Fitness,Puma Fitness 522,Puma,USA
+P0168,Sports,Fitness,Puma Fitness 854,Puma,Germany
+P0169,Sports,Fitness,Adidas Fitness 921,Adidas,South Korea
+P0170,Sports,Outdoor,Nike Outdoor 263,Nike,France
+P0171,Sports,Outdoor,Decathlon Outdoor 491,Decathlon,France
+P0172,Sports,Outdoor,Decathlon Outdoor 979,Decathlon,China
+P0173,Sports,Outdoor,Puma Outdoor 304,Puma,France
+P0174,Sports,Outdoor,Adidas Outdoor 458,Adidas,Germany
+P0175,Sports,Outdoor,Puma Outdoor 328,Puma,USA
+P0176,Sports,Outdoor,Puma Outdoor 508,Puma,Germany
+P0177,Sports,Outdoor,Nike Outdoor 985,Nike,USA
+P0178,Sports,Outdoor,Nike Outdoor 459,Nike,South Korea
+P0179,Sports,Outdoor,Adidas Outdoor 795,Adidas,France
+P0180,Sports,Outdoor,Nike Outdoor 128,Nike,USA
+P0181,Sports,Sportswear,Puma Sportswear 694,Puma,Germany
+P0182,Sports,Sportswear,Decathlon Sportswear 211,Decathlon,Japan
+P0183,Sports,Sportswear,Adidas Sportswear 453,Adidas,South Korea
+P0184,Sports,Sportswear,Nike Sportswear 546,Nike,Japan
+P0185,Sports,Sportswear,Decathlon Sportswear 494,Decathlon,Japan
+P0186,Sports,Sportswear,Puma Sportswear 360,Puma,USA
+P0187,Sports,Sportswear,Adidas Sportswear 101,Adidas,Japan
+P0188,Sports,Sportswear,Puma Sportswear 472,Puma,China
+P0189,Sports,Sportswear,Decathlon Sportswear 780,Decathlon,Germany
+P0190,Sports,Sportswear,Nike Sportswear 779,Nike,France
+P0191,Sports,Sportswear,Decathlon Sportswear 837,Decathlon,Germany
+P0192,Sports,Sportswear,Nike Sportswear 782,Nike,China
+P0193,Sports,Accessories,Adidas Accessories 813,Adidas,Germany
+P0194,Sports,Accessories,Puma Accessories 296,Puma,China
+P0195,Sports,Accessories,Adidas Accessories 793,Adidas,South Korea
+P0196,Sports,Accessories,Puma Accessories 730,Puma,Japan
+P0197,Sports,Accessories,Nike Accessories 515,Nike,Japan
+P0198,Sports,Accessories,Decathlon Accessories 411,Decathlon,Germany
+P0199,Sports,Accessories,Puma Accessories 540,Puma,France
+P0200,Sports,Accessories,Nike Accessories 576,Nike,China
+P0201,Sports,Accessories,Adidas Accessories 791,Adidas,India
+P0202,Sports,Accessories,Adidas Accessories 912,Adidas,France
+P0203,Sports,Accessories,Puma Accessories 774,Puma,USA
+P0204,Sports,Accessories,Nike Accessories 627,Nike,South Korea
+P0205,Sports,Accessories,Nike Accessories 195,Nike,France
+P0206,Beauty & Personal Care,Skincare,L'Oreal Skincare 330,L'Oreal,France
+P0207,Beauty & Personal Care,Skincare,Dove Skincare 250,Dove,USA
+P0208,Beauty & Personal Care,Skincare,Nivea Skincare 350,Nivea,China
+P0209,Beauty & Personal Care,Skincare,Nivea Skincare 566,Nivea,China
+P0210,Beauty & Personal Care,Skincare,Dove Skincare 835,Dove,South Korea
+P0211,Beauty & Personal Care,Skincare,Garnier Skincare 606,Garnier,China
+P0212,Beauty & Personal Care,Skincare,Dove Skincare 251,Dove,South Korea
+P0213,Beauty & Personal Care,Skincare,Nivea Skincare 868,Nivea,France
+P0214,Beauty & Personal Care,Skincare,Nivea Skincare 897,Nivea,China
+P0215,Beauty & Personal Care,Skincare,Dove Skincare 280,Dove,France
+P0216,Beauty & Personal Care,Skincare,Garnier Skincare 151,Garnier,Japan
+P0217,Beauty & Personal Care,Haircare,Nivea Haircare 567,Nivea,India
+P0218,Beauty & Personal Care,Haircare,Garnier Haircare 783,Garnier,Japan
+P0219,Beauty & Personal Care,Haircare,L'Oreal Haircare 873,L'Oreal,China
+P0220,Beauty & Personal Care,Haircare,Garnier Haircare 950,Garnier,Japan
+P0221,Beauty & Personal Care,Haircare,Garnier Haircare 262,Garnier,South Korea
+P0222,Beauty & Personal Care,Haircare,Garnier Haircare 560,Garnier,Germany
+P0223,Beauty & Personal Care,Haircare,Dove Haircare 960,Dove,South Korea
+P0224,Beauty & Personal Care,Haircare,L'Oreal Haircare 884,L'Oreal,France
+P0225,Beauty & Personal Care,Haircare,Garnier Haircare 741,Garnier,India
+P0226,Beauty & Personal Care,Haircare,L'Oreal Haircare 550,L'Oreal,USA
+P0227,Beauty & Personal Care,Haircare,L'Oreal Haircare 340,L'Oreal,Germany
+P0228,Beauty & Personal Care,Makeup,L'Oreal Makeup 653,L'Oreal,USA
+P0229,Beauty & Personal Care,Makeup,Dove Makeup 254,Dove,India
+P0230,Beauty & Personal Care,Makeup,Garnier Makeup 810,Garnier,India
+P0231,Beauty & Personal Care,Makeup,Dove Makeup 165,Dove,China
+P0232,Beauty & Personal Care,Makeup,Garnier Makeup 438,Garnier,Japan
+P0233,Beauty & Personal Care,Makeup,Garnier Makeup 525,Garnier,USA
+P0234,Beauty & Personal Care,Makeup,Dove Makeup 952,Dove,China
+P0235,Beauty & Personal Care,Makeup,Garnier Makeup 888,Garnier,Japan
+P0236,Beauty & Personal Care,Makeup,Nivea Makeup 977,Nivea,France
+P0237,Beauty & Personal Care,Makeup,Garnier Makeup 588,Garnier,USA
+P0238,Beauty & Personal Care,Makeup,L'Oreal Makeup 405,L'Oreal,France
+P0239,Beauty & Personal Care,Makeup,Garnier Makeup 973,Garnier,France
+P0240,Beauty & Personal Care,Makeup,Garnier Makeup 651,Garnier,South Korea
+P0241,Beauty & Personal Care,Grooming,Garnier Grooming 324,Garnier,Germany
+P0242,Beauty & Personal Care,Grooming,Garnier Grooming 597,Garnier,USA
+P0243,Beauty & Personal Care,Grooming,Garnier Grooming 444,Garnier,South Korea
+P0244,Beauty & Personal Care,Grooming,Garnier Grooming 841,Garnier,India
+P0245,Beauty & Personal Care,Grooming,Garnier Grooming 230,Garnier,Japan
+P0246,Beauty & Personal Care,Grooming,Nivea Grooming 503,Nivea,Japan
+P0247,Beauty & Personal Care,Grooming,Nivea Grooming 185,Nivea,South Korea
+P0248,Beauty & Personal Care,Grooming,Garnier Grooming 238,Garnier,France
+P0249,Beauty & Personal Care,Grooming,Garnier Grooming 286,Garnier,USA
+P0250,Beauty & Personal Care,Grooming,L'Oreal Grooming 488,L'Oreal,Germany
+P0251,Beauty & Personal Care,Grooming,Dove Grooming 565,Dove,Germany
+P0252,Grocery,Beverages,Tata Beverages 384,Tata,France
+P0253,Grocery,Beverages,Tata Beverages 358,Tata,France
+P0254,Grocery,Beverages,Pepsi Beverages 581,Pepsi,USA
+P0255,Grocery,Beverages,Britannia Beverages 153,Britannia,Germany
+P0256,Grocery,Beverages,Lay's Beverages 765,Lay's,USA
+P0257,Grocery,Beverages,Pepsi Beverages 872,Pepsi,USA
+P0258,Grocery,Beverages,Lay's Beverages 304,Lay's,France
+P0259,Grocery,Beverages,Pepsi Beverages 736,Pepsi,India
+P0260,Grocery,Beverages,Lay's Beverages 229,Lay's,China
+P0261,Grocery,Beverages,Pepsi Beverages 677,Pepsi,India
+P0262,Grocery,Beverages,Tata Beverages 816,Tata,Germany
+P0263,Grocery,Beverages,Nestle Beverages 271,Nestle,Japan
+P0264,Grocery,Beverages,Britannia Beverages 865,Britannia,South Korea
+P0265,Grocery,Snacks,Lay's Snacks 418,Lay's,USA
+P0266,Grocery,Snacks,Britannia Snacks 126,Britannia,Germany
+P0267,Grocery,Snacks,Britannia Snacks 793,Britannia,China
+P0268,Grocery,Snacks,Tata Snacks 832,Tata,India
+P0269,Grocery,Snacks,Pepsi Snacks 706,Pepsi,South Korea
+P0270,Grocery,Snacks,Lay's Snacks 204,Lay's,South Korea
+P0271,Grocery,Snacks,Nestle Snacks 970,Nestle,South Korea
+P0272,Grocery,Snacks,Britannia Snacks 924,Britannia,USA
+P0273,Grocery,Snacks,Britannia Snacks 901,Britannia,USA
+P0274,Grocery,Staples,Britannia Staples 538,Britannia,South Korea
+P0275,Grocery,Staples,Nestle Staples 170,Nestle,Japan
+P0276,Grocery,Staples,Nestle Staples 112,Nestle,France
+P0277,Grocery,Staples,Tata Staples 942,Tata,China
+P0278,Grocery,Staples,Pepsi Staples 543,Pepsi,Germany
+P0279,Grocery,Staples,Tata Staples 824,Tata,India
+P0280,Grocery,Staples,Tata Staples 280,Tata,South Korea
+P0281,Grocery,Staples,Britannia Staples 766,Britannia,Germany
+P0282,Grocery,Staples,Britannia Staples 927,Britannia,Japan
+P0283,Grocery,Staples,Tata Staples 576,Tata,China
+P0284,Grocery,Staples,Britannia Staples 374,Britannia,Germany
+P0285,Grocery,Staples,Lay's Staples 950,Lay's,USA
+P0286,Grocery,Staples,Nestle Staples 561,Nestle,India
+P0287,Grocery,Household,Britannia Household 724,Britannia,South Korea
+P0288,Grocery,Household,Tata Household 444,Tata,USA
+P0289,Grocery,Household,Tata Household 971,Tata,Germany
+P0290,Grocery,Household,Lay's Household 599,Lay's,India
+P0291,Grocery,Household,Nestle Household 916,Nestle,Germany
+P0292,Grocery,Household,Nestle Household 386,Nestle,Japan
+P0293,Grocery,Household,Nestle Household 669,Nestle,USA
+P0294,Grocery,Household,Britannia Household 295,Britannia,USA
+P0295,Grocery,Household,Lay's Household 837,Lay's,China
+P0296,Grocery,Household,Tata Household 668,Tata,France
+P0297,Grocery,Household,Lay's Household 807,Lay's,China
+P0298,Grocery,Household,Tata Household 558,Tata,France
+P0299,Grocery,Household,Pepsi Household 195,Pepsi,Germany
+P0300,Grocery,Household,Lay's Household 514,Lay's,South Korea
+P0301,Grocery,Household,Lay's Household 413,Lay's,South Korea
+P0302,Furniture,Beds,Urban Ladder Beds 666,Urban Ladder,Japan
+P0303,Furniture,Beds,Home Centre Beds 535,Home Centre,South Korea
+P0304,Furniture,Beds,Home Centre Beds 460,Home Centre,South Korea
+P0305,Furniture,Beds,Urban Ladder Beds 377,Urban Ladder,Germany
+P0306,Furniture,Beds,Home Centre Beds 336,Home Centre,USA
+P0307,Furniture,Beds,Godrej Beds 423,Godrej,USA
+P0308,Furniture,Beds,Godrej Beds 296,Godrej,India
+P0309,Furniture,Beds,Urban Ladder Beds 383,Urban Ladder,South Korea
+P0310,Furniture,Beds,Home Centre Beds 202,Home Centre,France
+P0311,Furniture,Beds,Godrej Beds 403,Godrej,India
+P0312,Furniture,Beds,Home Centre Beds 283,Home Centre,Germany
+P0313,Furniture,Beds,Ikea Beds 825,Ikea,Japan
+P0314,Furniture,Beds,Godrej Beds 380,Godrej,USA
+P0315,Furniture,Sofas,Home Centre Sofas 814,Home Centre,India
+P0316,Furniture,Sofas,Urban Ladder Sofas 205,Urban Ladder,France
+P0317,Furniture,Sofas,Ikea Sofas 687,Ikea,Germany
+P0318,Furniture,Sofas,Urban Ladder Sofas 590,Urban Ladder,China
+P0319,Furniture,Sofas,Home Centre Sofas 288,Home Centre,USA
+P0320,Furniture,Sofas,Home Centre Sofas 982,Home Centre,China
+P0321,Furniture,Sofas,Ikea Sofas 941,Ikea,USA
+P0322,Furniture,Sofas,Urban Ladder Sofas 603,Urban Ladder,USA
+P0323,Furniture,Chairs,Godrej Chairs 252,Godrej,France
+P0324,Furniture,Chairs,Home Centre Chairs 187,Home Centre,India
+P0325,Furniture,Chairs,Ikea Chairs 671,Ikea,France
+P0326,Furniture,Chairs,Urban Ladder Chairs 720,Urban Ladder,Japan
+P0327,Furniture,Chairs,Godrej Chairs 894,Godrej,Japan
+P0328,Furniture,Chairs,Urban Ladder Chairs 561,Urban Ladder,China
+P0329,Furniture,Chairs,Home Centre Chairs 980,Home Centre,Japan
+P0330,Furniture,Chairs,Urban Ladder Chairs 412,Urban Ladder,Japan
+P0331,Furniture,Tables,Ikea Tables 881,Ikea,India
+P0332,Furniture,Tables,Godrej Tables 370,Godrej,South Korea
+P0333,Furniture,Tables,Ikea Tables 260,Ikea,India
+P0334,Furniture,Tables,Godrej Tables 665,Godrej,USA
+P0335,Furniture,Tables,Godrej Tables 102,Godrej,China
+P0336,Furniture,Tables,Urban Ladder Tables 805,Urban Ladder,Japan
+P0337,Furniture,Tables,Urban Ladder Tables 398,Urban Ladder,USA
+P0338,Furniture,Tables,Godrej Tables 395,Godrej,South Korea

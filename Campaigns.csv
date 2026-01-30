@@ -1,0 +1,21 @@
+Campaign_ID,Campaign_Name,Channel,Start_Date,End_Date,Budget,Target_Category
+CAM401,Diwali Dhamaka,Email,2023-08-17,2023-08-25,90278.31,Electronics
+CAM402,Diwali Dhamaka,Social,2024-05-16,2024-06-06,21046.86,Fashion
+CAM403,Summer Splash,Ads,2023-07-29,2023-08-10,72906.64,Home Appliances
+CAM404,Summer Splash,Email,2023-03-07,2023-03-15,15774.95,Beauty
+CAM405,Back to School,Social,2024-04-21,2024-05-30,74232.15,Toys
+CAM406,End of Season Sale,Ads,2024-02-12,2024-03-16,30350.67,Fashion
+CAM407,New Year Bonanza,Email,2024-07-23,2024-07-30,92262.85,All
+CAM408,Black Friday,Ads,2023-11-23,2023-12-27,44128.81,Electronics
+CAM409,Flash Sale Weekend,Social,2023-11-15,2023-12-05,115079.5,Electronics
+CAM410,Clearance Sale,Email,2024-11-20,2024-12-03,15665.77,Furniture
+CAM411,Festive Offers,Social,2023-07-18,2023-08-16,102461.85,All
+CAM412,Sports Week,Ads,2024-06-25,2024-07-04,88919.16,Sports
+CAM413,Kitchen Fest,Email,2023-09-13,2023-10-14,14062.02,Grocery
+CAM414,Beauty Fest,Social,2024-08-23,2024-09-22,71395.5,Beauty
+CAM415,Student Discount,Referral,2023-05-23,2023-06-01,81045.28,Toys
+CAM416,Prime Day,Ads,2024-08-15,2024-08-27,103361.54,Electronics
+CAM417,Valentine Special,Social,2023-07-26,2023-08-26,36966.96,Fashion
+CAM418,Monsoon Sale,Email,2025-01-17,2025-02-03,47570.81,Home Appliances
+CAM419,Spring Deals,Ads,2024-03-05,2024-03-29,85709.34,All
+CAM420,Anniversary Sale,Email,2023-05-27,2023-06-13,66426.09,All
