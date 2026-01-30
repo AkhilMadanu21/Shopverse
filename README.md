@@ -1,5 +1,5 @@
 # 🛒 Shopverse – Advanced E-Commerce Sales Analytics (SQL + Power BI)
-
+https://app.powerbi.com/view?r=eyJrIjoiMTNkOTM4OWYtNTM3NC00MTcyLTk5MDQtYzRhNzk3NWYxYTg4IiwidCI6ImU4MGY3YzcwLThhNTMtNGFjYS1hNTFiLTg0NzVmNjNkMDUxZSJ9
 ## 📌 Project Overview
 **Shopverse** is an end-to-end **advanced e-commerce analytics project** built using **MySQL and Power BI**.  
 The project focuses on analyzing **sales performance, profitability, customer behavior, payment patterns, and target achievement** using a **view-driven SQL architecture** and interactive Power BI dashboards.
